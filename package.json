@@ -1,5 +1,11 @@
 {
-  "name": "dac.futuresaiyajin.de",
+  "author": {
+    "name": "FutureSaiyajin",
+    "email": "futuresaiyajin@online.de",
+    "url": "https://futuresaiyajin.de/"
+  },
+  "homepage": "https://gwpvx.futuresaiyajin.de/",
+  "name": "gwpvx.futuresaiyajin.de",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
